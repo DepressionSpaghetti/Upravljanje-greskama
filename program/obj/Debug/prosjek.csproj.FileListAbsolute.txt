@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\prosjek\obj\Debug\prosjek.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\prosjek\obj\Debug\prosjek.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\prosjek\obj\Debug\prosjek.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\prosjek\bin\Debug\prosjek.exe.config
+C:\Users\ucenik\source\repos\prosjek\bin\Debug\prosjek.exe
+C:\Users\ucenik\source\repos\prosjek\bin\Debug\prosjek.pdb
+C:\Users\ucenik\source\repos\prosjek\obj\Debug\prosjek.exe
+C:\Users\ucenik\source\repos\prosjek\obj\Debug\prosjek.pdb
